@@ -44,4 +44,7 @@ The purpose of this repository is to provide **supplementary material** for stud
    - g++ filename.cpp -o output    # For C++ files
 4. Run the compiled executable:
    - ./output
+## Raise a Query
+
+Have a doubt or found a bug? [Open an issue](https://github.com/saurabhdbz/IITG_BSc_DSAI/issues/new) to raise a query.
 
