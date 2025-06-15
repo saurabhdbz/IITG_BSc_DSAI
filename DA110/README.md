@@ -38,6 +38,7 @@ The purpose of this repository is to provide **supplementary material** for stud
 1. Clone the repository:
   git clone https://github.com/saurabhdbz/IITG_BSc_DSAI.git
 2. Navigate into the repository and the target folder:
+   cd IITG_BSc_DSAI/DA110
 3. Compile the code:
    gcc filename.c -o output      # For C files
    g++ filename.cpp -o output    # For C++ files
