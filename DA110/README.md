@@ -8,7 +8,7 @@ This repository contains **full code implementations** of algorithms and data st
 
 ### About
 
-The purpose of this repository is to provide **supplementary material** for students enrolled in the DA110 course. All code examples follow the structure and logic given in the lecture slides, implemented in **C** and **C++**.
+The purpose of this repository is to provide **supplementary material** for DA110 course. All code examples follow the structure and logic given in the lecture slides, implemented in **C** and **C++**.
 
 ---
 
