@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+// Use this tool to visualize the stack: 
+// https://pythontutor.com/render.html#mode=edit
 // Function prototype
 int factorial(int);
 
